@@ -235,6 +235,7 @@ To turn on the LED you simply use your favorite IOTA wallet and transfer some IO
 
 If you like this tutorial and want me to continue making others, feel free to make a small donation to the IOTA address used in the Python code. Also, feel free to use the same IOTA address when building and testing your version of this project, so that whenever my LED (and yours) lights up it gives me (us) a nice reminder that someone else is using this tutorial.
 
-![img](https://miro.medium.com/max/400/1*kV_WUaltF4tbRRyqcz0DaA.png)
+![img](https://miro.medium.com/max/382/1*j2ENIzmDzXcGSgAdY4w-Jw.png)
 
-> GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ
+NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ
+
