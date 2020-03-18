@@ -33,7 +33,7 @@ api = Iota(iotaNode, "")
 
 # IOTA address to be checked for new light funds 
 # IOTA addresses can be created using the IOTA Wallet
-address = [Address(b'GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ')]
+address = [Address(b'NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ')]
 
 # Get current address balance at startup and use as baseline for measuring new funds being added.   
 currentbalance = checkbalance()
